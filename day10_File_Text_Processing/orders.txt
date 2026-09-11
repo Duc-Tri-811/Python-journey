@@ -1,0 +1,5 @@
+Anna,450
+Peter,120
+John,700
+Maria,80
+David,320
